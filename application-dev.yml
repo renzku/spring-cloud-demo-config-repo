@@ -1,0 +1,4 @@
+configTest:
+  properties:
+    str1: hello-dev
+    str2: config-dev
