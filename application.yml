@@ -1,0 +1,5 @@
+ 
+configTest:
+  properties:
+    str1: hello
+    str2: config
